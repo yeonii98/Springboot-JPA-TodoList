@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+*{
+	font-family: 'Hi Melody', cursive;
+}
+h2{
+	font-family: 'Architects Daughter', cursive;
+}
+#btn-todo{
+	background-color: #FF8C8C;
+	border-color: #FF8C8C;
+}
+#btn-todo:hover{
+	background-color: #FF7B8C;
+	border-color: #FF7B8C;
+}
+#btn-delete{
+	background-color: #FF8C8C;
+	border-color: #FF8C8C;
+}
+#btn-delete:hover{
+	background-color: #FF7B8C;
+	border-color: #FF7B8C;
+}
