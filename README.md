@@ -2,7 +2,7 @@
 
 ---
 ### 프로젝트 개요
-* 일정을 추가하고 삭제할 수 있는 간단한 todolist
+* 일정을 추가하고 삭제할 수 있는 간단한 todolist (MVC구조)
 ---
 ### 기술
 * IDE : Spring Tool Suite 4
