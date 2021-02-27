@@ -19,4 +19,4 @@
 ![image](https://user-images.githubusercontent.com/76156034/109390411-da343380-7954-11eb-9163-242680124bab.png)
 
 ### 동작화면
-<img src="![AC_ 20210228-000119](https://user-images.githubusercontent.com/76156034/109391288-a60f4180-7959-11eb-9d37-d6879362faf6.gif" width="700" height="900"></img>
+<img src="![AC_ 20210228-000119](https://user-images.githubusercontent.com/76156034/109391288-a60f4180-7959-11eb-9d37-d6879362faf6.gif"></img>
